@@ -34,7 +34,7 @@ window.WEEKLY = {
   signals: [
     {
       name: "TD3C 即期运价",
-      value: "WS1,281.25", unit: "· TCE $137.0万/天",
+      value: "评估 WS1,281｜成交 WS1,297", unit: "· TCE $137.0万/天",
       chg: "-37.5 点（Baltic 10/16 周度评估，TCE $1,370,193/天自历史高位回落，询盘不足；不穿峡的 TD34 同报 WS776.43 / TCE $83.8 万；Fearnleys 10/13 录得 6 笔 VLCC 成交、中东湾-中国 WS1,296.88，其中 3 笔自延布装货运往远东——成交端尚未崩塌）", chgVal: -1,
       state: "bull",
       bullLine: "复航落地 + TCE 跌破 $20万/天",
